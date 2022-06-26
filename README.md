@@ -1,2 +1,2 @@
 # javascript-task
-Zuri js task (bio and calculator)
+Zuri js bio task
