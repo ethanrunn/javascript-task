@@ -1,1 +1,2 @@
-document.write ('Name: Ethan <br> Runn Height: 6ft 4in Country: Nigeria');
+alert
+('Name: Ethan Runn\nHeight: 6ft 4in\nCountry: Nigeria');
